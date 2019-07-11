@@ -2,8 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dd79fae0-fd84-4bd8-992d-efe94ed1693a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/entity/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/testApi/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/testApi/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/DisplayNameDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/DisplayNameDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/FirstJUnit5Tests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/HelloControllerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/entity/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/service/HelloWordService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/service/HelloWordServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/testApi/Application.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/testApi/HelloController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/testApi/WebServicePublish.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/testApi/WebServicePublishListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/HelloControllerTest.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -19,52 +32,67 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/StandardTests.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="551">
+              <caret line="43" column="12" selection-start-line="43" selection-start-column="8" selection-end-line="43" selection-end-column="12" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#570#571#0" expanded="true" />
+                <element signature="e#622#623#0" expanded="true" />
+                <element signature="e#1099#1100#0" expanded="true" />
+                <element signature="e#1137#1138#0" expanded="true" />
+                <element signature="e#1479#1480#0" expanded="true" />
+                <element signature="e#1523#1524#0" expanded="true" />
+                <element signature="e#1757#1758#0" expanded="true" />
+                <element signature="e#1801#1802#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/entity/Person.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
+              <folding>
+                <element signature="e#134#135#0" expanded="true" />
+                <element signature="e#165#166#0" expanded="true" />
+                <element signature="e#213#214#0" expanded="true" />
+                <element signature="e#253#254#0" expanded="true" />
+                <element signature="e#289#290#0" expanded="true" />
+                <element signature="e#321#322#0" expanded="true" />
+                <element signature="e#371#372#0" expanded="true" />
+                <element signature="e#413#414#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="494">
-              <caret line="26" column="17" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
+            <state relative-caret-position="551">
+              <caret line="29" column="51" selection-start-line="29" selection-start-column="51" selection-end-line="29" selection-end-column="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="62" selection-start-column="62" selection-end-column="62" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/HelloControllerTest.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/AssertionsDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="23" selection-start-line="23" selection-end-line="24" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/service/HelloWordServiceImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="33" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/testApi/WebServicePublish.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="13" column="46" selection-start-line="13" selection-start-column="46" selection-end-line="13" selection-end-column="46" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/testApi/WebServicePublishListener.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="532">
-              <caret line="33" selection-start-line="33" selection-end-line="33" />
+            <state relative-caret-position="1197">
+              <caret line="68" column="9" selection-start-line="68" selection-start-column="9" selection-end-line="68" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -75,20 +103,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/service/HelloWordService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="6" column="33" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="33" />
+            <state relative-caret-position="247">
+              <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/entity/User.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="23" selection-start-line="23" selection-end-line="23" />
             </state>
           </provider>
         </entry>
@@ -105,11 +124,35 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/testApi/WebServicePublish.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/testApi/Application.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="29" column="16" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="16" />
+            <state relative-caret-position="456">
+              <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/DisplayNameDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -140,7 +183,6 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/main/java/testApi/HelloController.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/HelloControllerTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/entity/User.java" />
         <option value="$PROJECT_DIR$/src/main/java/service/HelloWordService.java" />
@@ -148,8 +190,39 @@
         <option value="$PROJECT_DIR$/src/main/java/testApi/WebServicePublish.java" />
         <option value="$PROJECT_DIR$/src/main/java/testApi/WebServicePublishListener.java" />
         <option value="$PROJECT_DIR$/src/main/java/testApi/Application.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Test1.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Test2.java" />
+        <option value="$PROJECT_DIR$/src/test/java/T.java" />
+        <option value="$PROJECT_DIR$/src/main/java/entity/Person.java" />
+        <option value="$PROJECT_DIR$/src/test/java/StandardTests.java" />
+        <option value="$PROJECT_DIR$/src/test/java/AssertionsDemo.java" />
+        <option value="$PROJECT_DIR$/src/test/java/DisplayNameDemo.java" />
+        <option value="$PROJECT_DIR$/src/test/java/AgentMainApiControllerTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/FirstJUnit5Tests.java" />
+        <option value="$PROJECT_DIR$/src/test/java/studes_a/BaseTest.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
       </list>
     </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="TestSystem" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="205" />
@@ -163,6 +236,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -212,12 +286,31 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="testApi" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="TestSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestSystem" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TestSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestSystem" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TestSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestSystem" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -238,6 +331,11 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="entity" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -251,54 +349,82 @@
     </option>
   </component>
   <component name="RunManager" selected="Spring Boot.Application">
-    <configuration name="WebServicePublish" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="testApi.WebServicePublish" />
-      <module name="TestSystem" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="testApi.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HelloControllerTest.getHello" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="AssertionsDemo.groupedAssertions" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="TestSystem" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="HelloControllerTest" />
-      <option name="METHOD_NAME" value="getHello" />
+      <option name="MAIN_CLASS_NAME" value="AssertionsDemo" />
+      <option name="METHOD_NAME" value="groupedAssertions" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+    <configuration name="AssertionsDemo.timeoutNotExceededWithMethod" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TestSystem" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="AssertionsDemo" />
+      <option name="METHOD_NAME" value="timeoutNotExceededWithMethod" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BaseTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="TestSystem" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="testApi.*" />
+          <option name="PATTERN" value="studes_a.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="studes_a" />
+      <option name="MAIN_CLASS_NAME" value="studes_a.BaseTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DisplayNameDemo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TestSystem" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DisplayNameDemo" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FirstJUnit5Tests.myFirstTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TestSystem" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FirstJUnit5Tests" />
+      <option name="METHOD_NAME" value="myFirstTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="TestSystem" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="testApi.Application" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.WebServicePublish" />
-      <item itemvalue="JUnit.HelloControllerTest.getHello" />
+      <item itemvalue="JUnit.AssertionsDemo.groupedAssertions" />
+      <item itemvalue="JUnit.AssertionsDemo.timeoutNotExceededWithMethod" />
+      <item itemvalue="JUnit.DisplayNameDemo" />
+      <item itemvalue="JUnit.FirstJUnit5Tests.myFirstTest" />
+      <item itemvalue="JUnit.BaseTest" />
       <item itemvalue="Spring Boot.Application" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Spring Boot.Application" />
-        <item itemvalue="Application.WebServicePublish" />
-        <item itemvalue="JUnit.HelloControllerTest.getHello" />
+        <item itemvalue="JUnit.BaseTest" />
+        <item itemvalue="JUnit.FirstJUnit5Tests.myFirstTest" />
+        <item itemvalue="JUnit.DisplayNameDemo" />
+        <item itemvalue="JUnit.AssertionsDemo.timeoutNotExceededWithMethod" />
+        <item itemvalue="JUnit.AssertionsDemo.groupedAssertions" />
       </list>
     </recent_temporary>
   </component>
@@ -316,7 +442,12 @@
       <workItem from="1561475250110" duration="636000" />
       <workItem from="1562486240895" duration="2719000" />
       <workItem from="1562513930582" duration="1147000" />
-      <workItem from="1562515113278" duration="3137000" />
+      <workItem from="1562515113278" duration="3434000" />
+      <workItem from="1562594216537" duration="3321000" />
+      <workItem from="1562774381064" duration="721000" />
+      <workItem from="1562775480546" duration="2171000" />
+      <workItem from="1562854830567" duration="2226000" />
+      <workItem from="1562862197860" duration="442000" />
     </task>
     <task id="LOCAL-00001">
       <created>1562515360814</created>
@@ -332,22 +463,57 @@
       <option name="project" value="LOCAL" />
       <updated>1562516192745</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="cs">
+      <created>1562518662005</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1562518662005</updated>
+    </task>
+    <task id="LOCAL-00004" summary="junit5 单元测试学习代码">
+      <created>1562856025928</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1562856025928</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="HelloControllerTest_getHello - 2019.06.23 at 22h 40m 29s.xml">
-      <configuration name="HelloControllerTest.getHello" configurationId="JUnit" />
+    <history-entry file="StandardTests_succeedingTest - 2019.07.11 at 22h 38m 26s.xml">
+      <configuration name="StandardTests.succeedingTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="HelloControllerTest_getHello - 2019.06.23 at 22h 44m 56s.xml">
-      <configuration name="HelloControllerTest.getHello" configurationId="JUnit" />
+    <history-entry file="AssertionsDemo_dependentAssertions - 2019.07.11 at 22h 40m 39s.xml">
+      <configuration name="AssertionsDemo.dependentAssertions" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="HelloControllerTest_getHello - 2019.06.23 at 22h 45m 00s.xml">
-      <configuration name="HelloControllerTest.getHello" configurationId="JUnit" />
+    <history-entry file="AssertionsDemo_timeoutNotExceeded - 2019.07.11 at 22h 40m 45s.xml">
+      <configuration name="AssertionsDemo.timeoutNotExceeded" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AssertionsDemo - 2019.07.11 at 22h 40m 58s.xml">
+      <configuration name="AssertionsDemo" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AssertionsDemo_groupedAssertions - 2019.07.11 at 22h 41m 35s.xml">
+      <configuration name="AssertionsDemo.groupedAssertions" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AssertionsDemo_timeoutNotExceededWithMethod - 2019.07.11 at 22h 42m 02s.xml">
+      <configuration name="AssertionsDemo.timeoutNotExceededWithMethod" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DisplayNameDemo - 2019.07.11 at 22h 42m 17s.xml">
+      <configuration name="DisplayNameDemo" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DisplayNameDemo - 2019.07.11 at 22h 43m 02s.xml">
+      <configuration name="DisplayNameDemo" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FirstJUnit5Tests_myFirstTest - 2019.07.11 at 22h 43m 21s.xml">
+      <configuration name="FirstJUnit5Tests.myFirstTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BaseTest - 2019.07.11 at 22h 52m 35s.xml">
+      <configuration name="BaseTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12549000" />
+    <option name="totallyTimeSpent" value="21727000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -368,19 +534,19 @@
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Web" order="4" sideWeight="0.5005025" side_tool="true" weight="0.25534442" />
       <window_info id="Designer" order="5" />
-      <window_info content_ui="combo" id="Project" order="6" sideWeight="0.49949747" visible="true" weight="0.26128265" />
+      <window_info active="true" content_ui="combo" id="Project" order="6" sideWeight="0.49949747" visible="true" weight="0.2767221" />
       <window_info id="Structure" order="7" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="0" sideWeight="0.4994062" visible="true" weight="0.32997987" />
-      <window_info anchor="bottom" id="Docker" order="1" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Event Log" order="2" sideWeight="0.50059384" side_tool="true" visible="true" weight="0.32997987" />
+      <window_info anchor="bottom" id="Terminal" order="0" sideWeight="0.49881235" weight="0.32997987" />
+      <window_info anchor="bottom" id="Docker" order="1" show_stripe_button="false" sideWeight="0.4994062" weight="0.32997987" />
+      <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.50059384" side_tool="true" weight="0.32997987" />
       <window_info anchor="bottom" id="Messages" order="3" weight="0.32964823" />
       <window_info anchor="bottom" id="Java Enterprise" order="4" />
       <window_info anchor="bottom" id="Database Changes" order="5" />
-      <window_info anchor="bottom" id="Version Control" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="6" weight="0.32997987" />
       <window_info anchor="bottom" id="Spring" order="7" />
       <window_info anchor="bottom" id="Message" order="8" />
       <window_info anchor="bottom" id="Find" order="9" />
-      <window_info anchor="bottom" id="Run" order="10" weight="0.32964823" />
+      <window_info anchor="bottom" id="Run" order="10" visible="true" weight="0.32897383" />
       <window_info anchor="bottom" id="Debug" order="11" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="12" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="13" weight="0.4" />
@@ -391,7 +557,7 @@
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info anchor="right" id="Theme Preview" order="4" />
       <window_info anchor="right" id="Bean Validation" order="5" />
-      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Maven" order="6" weight="0.32957244" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="7" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="8" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="9" weight="0.25" />
@@ -402,21 +568,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="第一次提交到本地仓库" />
-    <option name="LAST_COMMIT_MESSAGE" value="第一次提交到本地仓库" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/test/java/HelloControllerTest.java</url>
-          <line>23</line>
-          <properties class="HelloControllerTest" method="getHello">
-            <option name="EMULATED" value="true" />
-          </properties>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="cs" />
+    <MESSAGE value="junit5 单元测试学习代码" />
+    <option name="LAST_COMMIT_MESSAGE" value="junit5 单元测试学习代码" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$USER_HOME$/.m2/settings.xml">
@@ -441,37 +595,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="26" column="17" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/HelloControllerTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="23" selection-start-line="23" selection-end-line="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/service/HelloWordServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
           <caret line="5" column="33" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/testApi/WebServicePublish.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="13" column="46" selection-start-line="13" selection-start-column="46" selection-end-line="13" selection-end-column="46" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -485,20 +612,93 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/service/HelloWordService.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/entity/User.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="6" column="33" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="33" />
+        <state relative-caret-position="285">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/junit/jupiter/junit-jupiter-api/5.3.2/junit-jupiter-api-5.3.2.jar!/org/junit/jupiter/api/function/Executable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/Collections.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="4766" column="19" selection-start-line="4766" selection-start-column="19" selection-end-line="4766" selection-end-column="19" />
+          <folding>
+            <element signature="e#186025#186026#0" expanded="true" />
+            <element signature="e#186071#186072#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/FirstJUnit5Tests.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/HelloControllerTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/studes_a/BaseTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/StandardTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="43" column="12" selection-start-line="43" selection-start-column="8" selection-end-line="43" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#570#571#0" expanded="true" />
+            <element signature="e#622#623#0" expanded="true" />
+            <element signature="e#1099#1100#0" expanded="true" />
+            <element signature="e#1137#1138#0" expanded="true" />
+            <element signature="e#1479#1480#0" expanded="true" />
+            <element signature="e#1523#1524#0" expanded="true" />
+            <element signature="e#1757#1758#0" expanded="true" />
+            <element signature="e#1801#1802#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/entity/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
+          <folding>
+            <element signature="e#134#135#0" expanded="true" />
+            <element signature="e#165#166#0" expanded="true" />
+            <element signature="e#213#214#0" expanded="true" />
+            <element signature="e#253#254#0" expanded="true" />
+            <element signature="e#289#290#0" expanded="true" />
+            <element signature="e#321#322#0" expanded="true" />
+            <element signature="e#371#372#0" expanded="true" />
+            <element signature="e#413#414#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="29" column="51" selection-start-line="29" selection-start-column="51" selection-end-line="29" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/AssertionsDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1197">
+          <caret line="68" column="9" selection-start-line="68" selection-start-column="9" selection-end-line="68" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/entity/User.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/service/HelloWordService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        <state relative-caret-position="247">
+          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -512,13 +712,40 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/testApi/Application.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/testApi/WebServicePublish.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="29" column="16" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="16" />
+        <state relative-caret-position="95">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/testApi/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/DisplayNameDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="62" selection-start-column="62" selection-end-column="62" />
         </state>
       </provider>
     </entry>
@@ -597,5 +824,8 @@
         </settings>
       </state>
     </states>
+  </component>
+  <component name="mavenExecuteGoalHistory">
+    <option value="" />
   </component>
 </project>
