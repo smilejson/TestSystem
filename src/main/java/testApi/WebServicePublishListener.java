@@ -1,7 +1,7 @@
 package testApi;
 
 
-import service.HelloWordServiceImpl;
+import service.impl.HelloWordServiceImpl;
 
 import javax.servlet.ServletContextEvent;
 import javax.servlet.ServletContextListener;

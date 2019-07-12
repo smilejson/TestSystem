@@ -39,12 +39,22 @@
 
 <!--   Mybatis -->
     <dependency>
+        <groupId>org.mybatis</groupId>
+        <artifactId>mybatis</artifactId>
+        <version>3.5.0</version>
+    </dependency>
+
+    <dependency>
         <groupId>mysql</groupId>
         <artifactId>mysql-connector-java</artifactId>
         <scope>runtime</scope>
     </dependency>
 
-
+    <dependency>
+        <groupId>com.github.pagehelper</groupId>
+        <artifactId>pagehelper</artifactId>
+        <version>3.7.5</version>
+    </dependency>
 
 <!--  Junit 5  的jar和依赖包  -->
     <dependency>

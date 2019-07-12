@@ -1,9 +1,11 @@
-package service;
+package service.impl;
+
+import service.HelloWordService;
 
 import javax.jws.WebService;
 
 @WebService
-public class HelloWordServiceImpl  implements HelloWordService{
+public class HelloWordServiceImpl  implements HelloWordService {
 
 
     @Override

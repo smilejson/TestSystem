@@ -1,4 +1,4 @@
-package testApi;
+package controller;
 
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.bind.annotation.RequestMapping;
@@ -8,7 +8,7 @@ public class HelloController {
 
     Integer i=0;
 
-    @RequestMapping("/")
+    @RequestMapping("/hello/")
     public String index() {
         System.out.println("request-----"+i++);
 
